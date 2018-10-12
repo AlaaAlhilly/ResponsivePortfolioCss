@@ -273,11 +273,7 @@ input[type=submit]{
         font-weight: bold;
         color: #4aaaa5;
     }
-    hr{
-        font-weight: 36px;
-        color: #dddddd;
-    }
-    
+
     #profimg{
         width: 100%;
         height: auto;
@@ -376,10 +372,7 @@ input[type=submit]{
         color: #4aaaa5;
 
     }
-    hr{
-        font-weight: 36px;
-        color: #dddddd;
-    }
+
     
     #profimg{
         width: 98%;
@@ -483,11 +476,7 @@ input[type=submit]{
         color: #4aaaa5;
 
     }
-    hr{
-        font-weight: 36px;
-        color: #dddddd;
-    }
-    
+
     #profimg{
         width: 98%;
         height: 200px;
